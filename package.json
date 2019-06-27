@@ -1,0 +1,12 @@
+{
+    "name": "node-red",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_AsyncBackend.json",
+            "credentialsFile": "flows_AsyncBackend_cred.json"
+        }
+    }
+}
